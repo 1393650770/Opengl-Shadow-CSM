@@ -1,0 +1,159 @@
+﻿  glad.c
+  Camera.cpp
+  main.cpp
+D:\LearnOpenGL\OpenGLProject\Learning1\Learning1\main.cpp(218,42): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\LearnOpenGL\OpenGLProject\Learning1\Learning1\main.cpp(125,23): warning C4101: “EBO”: 未引用的局部变量
+D:\LearnOpenGL\OpenGLProject\Learning1\Learning1\main.cpp(203,9): warning C4101: “UniformHandle2”: 未引用的局部变量
+D:\LearnOpenGL\OpenGLProject\Learning1\Learning1\main.cpp(202,9): warning C4101: “UniformHandle1”: 未引用的局部变量
+  Mesh.cpp
+  Model.cpp
+  Shader.cpp
+D:\LearnOpenGL\OpenGLProject\Learning1\Learning1\Shader.cpp(29,16): warning C4101: “geometry”: 未引用的局部变量
+  正在生成代码...
+Mesh.obj : error LNK2005: "void __cdecl stbi__unpremultiply_on_load_thread(int)" (?stbi__unpremultiply_on_load_thread@@YAXH@Z) 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_convert_iphone_png_to_rgb 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_convert_iphone_png_to_rgb_thread 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_failure_reason 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_hdr_to_ldr_gamma 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_hdr_to_ldr_scale 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_image_free 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_info 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_info_from_callbacks 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_info_from_file 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_info_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_16_bit 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_16_bit_from_callbacks 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_16_bit_from_file 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_16_bit_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_hdr 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_hdr_from_callbacks 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_hdr_from_file 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_is_hdr_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_ldr_to_hdr_gamma 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_ldr_to_hdr_scale 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_16 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_16_from_callbacks 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_16_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_from_callbacks 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_from_file 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_from_file_16 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_load_gif_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_loadf 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_loadf_from_callbacks 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_loadf_from_file 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_loadf_from_memory 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_set_flip_vertically_on_load 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_set_flip_vertically_on_load_thread 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_set_unpremultiply_on_load 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_zlib_decode_buffer 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_zlib_decode_malloc 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_zlib_decode_malloc_guesssize 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_zlib_decode_malloc_guesssize_headerflag 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_zlib_decode_noheader_buffer 已经在 main.obj 中定义
+Mesh.obj : error LNK2005: _stbi_zlib_decode_noheader_malloc 已经在 main.obj 中定义
+Model.obj : error LNK2005: "void __cdecl stbi__unpremultiply_on_load_thread(int)" (?stbi__unpremultiply_on_load_thread@@YAXH@Z) 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_convert_iphone_png_to_rgb 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_convert_iphone_png_to_rgb_thread 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_failure_reason 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_hdr_to_ldr_gamma 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_hdr_to_ldr_scale 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_image_free 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_info 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_info_from_callbacks 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_info_from_file 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_info_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_16_bit 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_16_bit_from_callbacks 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_16_bit_from_file 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_16_bit_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_hdr 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_hdr_from_callbacks 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_hdr_from_file 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_is_hdr_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_ldr_to_hdr_gamma 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_ldr_to_hdr_scale 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_16 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_16_from_callbacks 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_16_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_from_callbacks 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_from_file 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_from_file_16 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_load_gif_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_loadf 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_loadf_from_callbacks 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_loadf_from_file 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_loadf_from_memory 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_set_flip_vertically_on_load 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_set_flip_vertically_on_load_thread 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_set_unpremultiply_on_load 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_zlib_decode_buffer 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_zlib_decode_malloc 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_zlib_decode_malloc_guesssize 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_zlib_decode_malloc_guesssize_headerflag 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_zlib_decode_noheader_buffer 已经在 main.obj 中定义
+Model.obj : error LNK2005: _stbi_zlib_decode_noheader_malloc 已经在 main.obj 中定义
+Shader.obj : error LNK2005: "void __cdecl stbi__unpremultiply_on_load_thread(int)" (?stbi__unpremultiply_on_load_thread@@YAXH@Z) 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_convert_iphone_png_to_rgb 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_convert_iphone_png_to_rgb_thread 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_failure_reason 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_hdr_to_ldr_gamma 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_hdr_to_ldr_scale 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_image_free 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_info 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_info_from_callbacks 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_info_from_file 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_info_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_16_bit 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_16_bit_from_callbacks 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_16_bit_from_file 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_16_bit_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_hdr 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_hdr_from_callbacks 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_hdr_from_file 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_is_hdr_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_ldr_to_hdr_gamma 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_ldr_to_hdr_scale 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_16 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_16_from_callbacks 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_16_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_from_callbacks 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_from_file 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_from_file_16 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_load_gif_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_loadf 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_loadf_from_callbacks 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_loadf_from_file 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_loadf_from_memory 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_set_flip_vertically_on_load 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_set_flip_vertically_on_load_thread 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_set_unpremultiply_on_load 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_zlib_decode_buffer 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_zlib_decode_malloc 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_zlib_decode_malloc_guesssize 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_zlib_decode_malloc_guesssize_headerflag 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_zlib_decode_noheader_buffer 已经在 main.obj 中定义
+Shader.obj : error LNK2005: _stbi_zlib_decode_noheader_malloc 已经在 main.obj 中定义
+main.obj : error LNK2019: 无法解析的外部符号 _glfwInit，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwTerminate，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowHint，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwCreateWindow，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwWindowShouldClose，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetWindowShouldClose，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetFramebufferSizeCallback，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwPollEvents，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwGetKey，函数 "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwGetMouseButton，函数 "void __cdecl mouse_callback(struct GLFWwindow *,double,double)" (?mouse_callback@@YAXPAUGLFWwindow@@NN@Z) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetCursorPosCallback，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSetScrollCallback，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwGetTime，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwMakeContextCurrent，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwSwapBuffers，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 _glfwGetProcAddress，函数 _main 中引用了该符号
+D:\GLFW\GLFW-Include\glfw3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\LearnOpenGL\OpenGLProject\Learning1\Learning1\Debug\Learning1.exe : fatal error LNK1120: 16 个无法解析的外部命令
