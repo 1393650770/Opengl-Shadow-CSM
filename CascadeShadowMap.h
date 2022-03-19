@@ -14,7 +14,8 @@ private:
 	//计算划分的距离对数
 	void CalcClipDistance(Camera& camera);
 	//在world space计算出视野切分的各个点
-	void GetClipPoint(Camera& camera);
+	void GetClipPointByCamera(Camera& camera);
+	void GetClipPointByNDC(Camera& camera);
 	//计算每个包围盒的变换矩阵
 	void GetNewLightViewMat4(Camera& camera,glm::vec4 lightPos, glm::vec4 lightDirection);
 public:
